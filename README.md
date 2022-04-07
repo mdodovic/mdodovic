@@ -1,6 +1,6 @@
 ### Hi there, I'm Matija 👋
 
-<img align="left" alt="Matija Dodovic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdodovic&show_icons=true&hide_border=true"/>
+<img align="left" alt="Matija Dodovic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdodovic&show_icons=true&hide_border=true&count_private=true"/>
 
 
 <!--
