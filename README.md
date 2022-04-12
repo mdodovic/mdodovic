@@ -2,7 +2,7 @@
 
 <img align="left" alt="Matija Dodovic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdodovic&show_icons=true&hide_border=true&count_private=true"/>
 
-<img align="right" alt="Matija Dodovic's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdodovic&count_private=true"/>
+<img align="right" alt="Matija Dodovic's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdodovic&count_private=true&&langs_count=8"/>
 
 <!--
 **mdodovic/mdodovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
