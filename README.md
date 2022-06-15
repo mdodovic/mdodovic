@@ -1,16 +1,15 @@
-### Hi there, I'm Matija 👋
+## Hi there, I'm Matija 👋
 
+### GitHub Stats
 
 <table class="center" style="width:100%;">
   <tr>
     <td align="center">
-      <img align="center" alt="Matija Dodovic's Github Stats" src="https://github-readme-stats.vercel.app/api?      
-                                                                   username=mdodovic&show_icons=true&hide_border=true&count_private=true"/>
+      <img align="center" alt="Matija Dodovic's Github Stats" src="https://github-readme-stats.vercel.app/api?                                                                   username=mdodovic&show_icons=true&hide_border=true&count_private=true"/>
     </td>
     <td align="center">
       
-      <img align="center" alt="Matija Dodovic's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?
-                                                                   username=mdodovic&count_private=true&&langs_count=18&layout=compact&hide_border=true"/>
+      <img align="center" alt="Matija Dodovic's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?                                                                   username=mdodovic&count_private=true&&langs_count=18&layout=compact&hide_border=true"/>
       
     </td>
   </tr>
